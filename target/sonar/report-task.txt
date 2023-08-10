@@ -1,0 +1,6 @@
+projectKey=in.swara:Swara-Maven-App
+serverUrl=http://54.178.75.81:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://54.178.75.81:9000/dashboard?id=in.swara%3ASwara-Maven-App
+ceTaskId=AYndz6zGojGPVZWWO9Ah
+ceTaskUrl=http://54.178.75.81:9000/api/ce/task?id=AYndz6zGojGPVZWWO9Ah
